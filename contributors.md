@@ -3,3 +3,4 @@
 
 - [RishabhSpark](https://github.com/RishabhSpark/) (**Rishabh Khandelwal**) - _Initial author_
 - [IshaanGaware](https://github.com/IshaanGaware/) (**Ishaan Gaware**) - _Initial author_
+- [Shashank021401](https://github.com/Shashank021401/) (**Shashank Sharma**) - _Initial author_
